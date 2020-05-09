@@ -1,0 +1,21 @@
+*{
+    scroll-behavior: smooth;
+}
+.navbar{
+    background: linear-gradient(to right,rgb(10, 178, 255),rgb(1, 82, 148));
+    color: white;
+}
+.jumbotron{
+    background: linear-gradient(to right,rgb(10, 178, 255),rgb(1, 82, 148));
+    height: 690px;
+    color: white;
+}
+
+a:hover{
+    /* background: linear-gradient(to right,rgb(10, 178, 255),rgb(1, 82, 148));
+    border-radius: 8px; */
+    border-bottom: 1px solid white;
+}
+.img{
+    border: 2px solid black;
+}
